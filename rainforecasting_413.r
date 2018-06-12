@@ -1,4 +1,3 @@
-#MIDTERM SCRIPT
 #AUTHOR: Nitin Gaonkar
 
 
